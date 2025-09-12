@@ -70,7 +70,10 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 
 **Health Gym Chapters**
 
-* [Hands On with ART for HIV](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs001_Intro): A friendly walkthrough on loading, preprocessing, and exploring the Health Gym ART for HIV synthetic dataset with Python.
+* [Hands On with ART for HIV](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs001_Intro):</br>
+  A friendly walkthrough on loading, preprocessing, and exploring the Health Gym ART for HIV synthetic dataset with Python.
+* [Exploring the Realism of the ART for HIV Dataset](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs002_Realism):</br>
+  A showcase of the ART for HIV dataset’s realism, using distribution plots, correlation checks, and downstream RL policy replication in treatment recommendations.
 
 </td>
 <td width="40%">
