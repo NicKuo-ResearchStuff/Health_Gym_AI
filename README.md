@@ -81,8 +81,6 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 
 ---
 
----
-
 # Team
 
 <table>
