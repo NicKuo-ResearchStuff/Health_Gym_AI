@@ -11,7 +11,7 @@ In instalment 01, we’ll go step-by-step through the pre-processing pipeline we
 
 Our ART for HIV dataset starts off like this:
 
-<img src="ImageStuff/ZFig004_ArtHivHead.png" width="600"/>
+<img src="Supporting_Images/ZFig004_ArtHivHead.png" width="600"/>
 
 If this is your first time seeing it, check out the earlier [Hands On with ART for HIV](https://github.com/NicKuo-ResearchStuff/Synthetic_Data_Related_Project_Staging/tree/main/Chapters) blog for a quick introduction.
 
@@ -102,7 +102,7 @@ we can run a few quick checks:
 ART_Data_Num.head()
 ```
 
-<img src="ImageStuff/ZFig013_SanityCheck01.png" width="600"/>  
+<img src="Supporting_Images/ZFig013_SanityCheck01.png" width="600"/>  
 
 Now, `Gender` and `Ethnic` are integers instead of strings — exactly what our models need.
 
@@ -110,7 +110,7 @@ Now, `Gender` and `Ethnic` are integers instead of strings — exactly what our 
 art_transformation_params
 ```
 
-<img src="ImageStuff/ZFig014_SanityCheck02.png" width="600"/>  
+<img src="Supporting_Images/ZFig014_SanityCheck02.png" width="600"/>  
 
 Here we see the Box–Cox λ and scaling ranges for each lab variable.
 These parameters are saved so we can later invert the transforms during post-processing.
@@ -120,7 +120,7 @@ These parameters are saved so we can later invert the transforms during post-pro
 ART_Data_Transformed.head()
 ```
 
-<img src="ImageStuff/ZFig015_SanityCheck03.png" width="600"/>  
+<img src="Supporting_Images/ZFig015_SanityCheck03.png" width="600"/>  
 
 Numeric features like VL and CD4 are now cleanly mapped into the \[0,1] range — ready for deep learning.
 
@@ -136,3 +136,5 @@ If you’d like to try it yourself, I’ve prepared a Colab notebook in this Git
 
 Cheers,</br>
 \- Nic
+
+(Last Edit: 2025-09-15)
