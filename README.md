@@ -91,7 +91,7 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 
 **Implementation Series**
 
-* [Pre-processing the ART for HIV Dataset](https://github.com/NicKuo-ResearchStuff/Synthetic_Data_Related_Project_Staging/blob/main/chapt3/README.md):</br>
+* [Pre-processing the ART for HIV Dataset](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation01):</br>
   A step-by-step walkthrough of the Health Gym ART for HIV dataset pre-processing pipeline, covering categorical mapping, Box–Cox normalisation, sanity checks, and preparing model-ready data..
 
 </td>
