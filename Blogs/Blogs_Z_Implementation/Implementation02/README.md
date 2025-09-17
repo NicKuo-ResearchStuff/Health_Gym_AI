@@ -49,7 +49,7 @@ for first_5_idx in range(5):
 
 Likewise,
 ```python
-demo = arr12[1, :5, :]   # patient 0, timesteps 0..5
+demo = arr12[1, :5, :]   # patient 1, timesteps 0..5
 print("###===###")
 for first_5_idx in range(5):
   print(demo[first_5_idx, :])
@@ -95,4 +95,4 @@ This sets the stage for the next implementation blog, where we’ll start embedd
 Cheers,</br>
 \- Nic
 
-(Last Edit: 2025-09-16)
+(Last Edit: 2025-09-17)
