@@ -92,7 +92,9 @@ So, to recap:
 
 This sets the stage for the next implementation blog, where we’ll start embedding features!
 
+If you’d like to try it yourself, I’ve prepared a Colab notebook in this Github folder.
+
 Cheers,</br>
 \- Nic
 
-(Last Edit: 2025-09-17)
+(Last Edit: 2025-09-18)
