@@ -13,7 +13,7 @@ This time, we’ll embed our features, which requires harmonising a mix of conti
 
 Neural models requires each timestep to be represented by a dense vector of real numbers.
 But our pre-processed dataset has continuous lab measurements (already as numeric) as well as medication information stored as categorical levels (as integers).
-<img src="ImageStuff/ZFig015_SanityCheck03.png" width="600"/>  
+<img src="Supporting_Images/ZFig015_SanityCheck03.png" width="600"/>  
 
 We need to map both into learnable embedding vectors.
 
@@ -44,7 +44,7 @@ columns = ["index",     "name",             "type",   "num_classes",  "embedding
 ```
 which gives us
 
-<img src="ImageStuff/ZFig019_SanityCheck01.png" width="600"/>  
+<img src="Supporting_Images/ZFig019_SanityCheck01.png" width="600"/>  
 
 ---
 
@@ -110,7 +110,7 @@ Embedded_Using_Embedder
 ```
 this will give us
 
-<img src="ImageStuff/ZFig020_SanityCheck02.png" width="400"/> 
+<img src="Supporting_Images/ZFig020_SanityCheck02.png" width="400"/> 
 
 ---
 
@@ -151,7 +151,7 @@ for row_idx, row in feature_df.iterrows():
     break
 ```
 
-<img src="ImageStuff/ZFig021_SanityCheck03.png" width="400"/> 
+<img src="Supporting_Images/ZFig021_SanityCheck03.png" width="400"/> 
 
 ---
 
