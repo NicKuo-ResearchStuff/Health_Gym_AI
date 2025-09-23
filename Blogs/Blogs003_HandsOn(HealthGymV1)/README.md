@@ -1,6 +1,6 @@
 # ART for HIV using the Health Gym v1 Model (WGAN-GP)
 
-<img src="ImageStuff/ZFig022_HealthGymV1OnArt4HIV.png" width="600"/>
+<img src="Supporting_Images/ZFig022_HealthGymV1OnArt4HIV.png" width="600"/>
 
 Hey, hello, and Kia Ora!
 
@@ -41,7 +41,7 @@ Here’s a more polished and descriptive version of your results section:
 
 After 100 epochs
 
-<img src="ImageStuff/ZFig023_HealthGymV1Results_Epoch100.png" width="900"/>  
+<img src="Supporting_Images/ZFig023_HealthGymV1Results_Epoch100.png" width="900"/>  
 
 At this stage, the model has captured the broad outlines of the data but with clear limitations:
 
@@ -50,7 +50,7 @@ Demographics and regimens captures the dominant ranking of the categories, yet t
 
 After 200 epochs
 
-<img src="ImageStuff/ZFig024_HealthGymV1Results_Epoch200.png" width="900"/>  
+<img src="Supporting_Images/ZFig024_HealthGymV1Results_Epoch200.png" width="900"/>  
 
 With further training, the fit improves noticeably. VL and CD4 synthetic curves show greater overlap with the real data, and the exaggerated spike at zero is reduced. Categorical variable distributions begin to shift closer to the real counts, though imbalances remain.
 
