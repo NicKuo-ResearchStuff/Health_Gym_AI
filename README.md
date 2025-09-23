@@ -53,7 +53,11 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 * GANs: Adversarially trained recurrent networks that generate realistic longitudinal patient trajectories, validated for fidelity and privacy.
 * Diffusion Models: Noise-based generative models that iteratively denoise to produce diverse, stable, and correlation-preserving synthetic health data.
 * Hybrid Custom Model: A GAN extended with VAE encoding and replay buffers to mitigate mode collapse, ensuring fairer representation of minority groups and rare treatments.
-
+* [Hands On with ART for HIV](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs001_Intro):</br>
+  A friendly walkthrough on loading, preprocessing, and exploring the Health Gym ART for HIV synthetic dataset with Python.
+* [Exploring the Realism of the ART for HIV Dataset](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs002_Realism):</br>
+  A showcase of the ART for HIV dataset’s realism, using distribution plots, correlation checks, and downstream RL policy replication in treatment recommendations.
+  
 </td>
 <td width="40%">
   <img src="Supporting_Images/ZFig003_ModellingToolBox.png" alt="Modelling Toolbox for Synthetic Data" width="300"/>
@@ -68,16 +72,14 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 <tr>
 <td width="60%">
 
-**Health Gym Chapters**
+**Worked Examples of the Models**
 
-* [Hands On with ART for HIV](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs001_Intro):</br>
-  A friendly walkthrough on loading, preprocessing, and exploring the Health Gym ART for HIV synthetic dataset with Python.
-* [Exploring the Realism of the ART for HIV Dataset](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs002_Realism):</br>
-  A showcase of the ART for HIV dataset’s realism, using distribution plots, correlation checks, and downstream RL policy replication in treatment recommendations.
+* [ART for HIV using the Health Gym v1 Model (WGAN-GP)]():</br>
+  A hands-on walkthrough showing how the Health Gym v1 (WGAN-GP) can generate synthetic ART for HIV data, using a smaller subset to illustrate workflow, results, and progressive improvements with training.
 
 </td>
 <td width="40%">
-  <img src="Supporting_Images/ZFig004_Chapters.png" alt="Health + Data Illustration" width="300"/>
+  <img src="Supporting_Images/ZFig025_HandsOn.png" alt="Health + Data Illustration" width="300"/>
 </td>
 </tr>
 </table>
