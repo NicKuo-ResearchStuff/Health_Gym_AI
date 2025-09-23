@@ -74,7 +74,7 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 
 **Worked Examples of the Models**
 
-* [ART for HIV using the Health Gym v1 Model (WGAN-GP)]():</br>
+* [ART for HIV using the Health Gym v1 Model (WGAN-GP)](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs003_HandsOn(HealthGymV1)):</br>
   A hands-on walkthrough showing how the Health Gym v1 (WGAN-GP) can generate synthetic ART for HIV data, using a smaller subset to illustrate workflow, results, and progressive improvements with training.
 
 </td>
