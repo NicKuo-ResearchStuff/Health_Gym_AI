@@ -1,4 +1,4 @@
-# A Worked Example of ART for HIV using the Health Gym v2 Model (WGAN-GP + VAE + Buffer)
+# ART for HIV using the Health Gym v2 Model (WGAN-GP + VAE + Buffer)
 
 <img src="Supporting_Images/ZFig026_HandsOnV2.png" width="600"/>
 
