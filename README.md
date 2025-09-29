@@ -105,6 +105,8 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
   A walkthrough on `ARTFeatureEmbedding` to embed mixed clinical features of the ART for HIV dataset into dense vectors using PyTorch, preparing them for sequence models.
 * [Rethinking Feature Schema and Data Loading](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation04):</br>
   A reflective blog post uncovering the "white lies" we told about reshaping and feature schemas, showing how data loading and embedding are in fact inseparably linked.
+* [Shuffling Feature Schema + DataLoader](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation05):</br>
+  This post shows how feature schema and DataLoader come together, with one-hot expansion handled cleanly inside a unified pipeline.
 
 </td>
 <td width="40%">
@@ -179,4 +181,4 @@ For any questions or interest in collaboration, please reach out to Nic at [n.ku
 
 [9]: [Kuo et al., "Enriching Data Science and Health Care Education: Application and Impact of Synthetic Data Sets through the Health Gym Project." JMIR Medical Education (2024).](https://mededu.jmir.org/2024/1/e51388/)
 
-(Last Edit: 2025-09-26)
+(Last Edit: 2025-09-29)
