@@ -80,37 +80,12 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
   We introduce a meta-learner that guides the generator with a learned latent prior, enabling faster, more stable training and richer, more diverse synthetic ART for HIV data.
 * [ART for HIV using the Health Gym v2.5 Model (WGAN-GP + 3EOT + VAE + Buffer)](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs005_HandsOn(HealthGymV2.5)):</br>
   A high-level walkthrough of Health Gym v2.5, showing how adding a Transformer generator to the v2 meta-learning framework improves realism, stability, and diversity in synthetic ART for HIV data.
+
+For a detailed step-by-step breakdown of the implementation process, see the [Implementation Series](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs).
   
 </td>
 <td width="40%">
   <img src="Supporting_Images/ZFig025_HandsOn.png" alt="Health + Data Illustration" width="300"/>
-</td>
-</tr>
-</table>
-
----
-
-<!-- Side-by-side layout: text and illustration -->
-<table>
-<tr>
-<td width="60%">
-
-**Implementation Series**
-
-* [Pre-processing the ART for HIV Dataset](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation01):</br>
-  A step-by-step walkthrough of the Health Gym ART for HIV dataset pre-processing pipeline, covering categorical mapping, Box–Cox normalisation, sanity checks, and preparing model-ready data.
-* [From Table to DataLoader](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation02):</br>
-  A step-by-step guide showing how to reshape the ART for HIV dataset into patient–timestep sequences, of shape `((-1, Cur_Len, Feats_Len))`.
-* [Embedding Features for ART for HIV](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation03):</br>
-  A walkthrough on `ARTFeatureEmbedding` to embed mixed clinical features of the ART for HIV dataset into dense vectors using PyTorch, preparing them for sequence models.
-* [Rethinking Feature Schema and Data Loading](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation04):</br>
-  A reflective blog post uncovering the "white lies" we told about reshaping and feature schemas, showing how data loading and embedding are in fact inseparably linked.
-* [Shuffling Feature Schema + DataLoader](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation05):</br>
-  This post shows how feature schema and DataLoader come together, with one-hot expansion handled cleanly inside a unified pipeline.
-
-</td>
-<td width="40%">
-  <img src="Supporting_Images/ZFig016_ImplementationSeries.png" alt="Health + Data Illustration" width="300"/>
 </td>
 </tr>
 </table>
