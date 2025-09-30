@@ -50,5 +50,11 @@ A reflective blog post uncovering the "white lies" we told about reshaping and f
 
 This post shows how feature schema and DataLoader come together, with one-hot expansion handled cleanly inside a unified pipeline.
 
+---
+
+### [Implementation 06: Curriculum Learning with Nested DataLoaders](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation06)
+
+We build multiple DataLoaders of increasing sequence lengths and use them in curriculum style, so the WGAN trains from short to long horizons within each epoch.
+
 (Last Edit: 2025-09-30)
 
