@@ -56,5 +56,11 @@ This post shows how feature schema and DataLoader come together, with one-hot ex
 
 We build multiple DataLoaders of increasing sequence lengths and use them in curriculum style, so the WGAN trains from short to long horizons within each epoch.
 
+---
+
+### [Health Gym v1: An LSTM-based WGAN](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation07)
+
+This post discusses how LSTM is embedded a GAN architecture to power the generation of realistic sequences of synthetic EHR time series.
+
 (Last Edit: 2025-09-30)
 
