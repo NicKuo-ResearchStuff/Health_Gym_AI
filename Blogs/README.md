@@ -62,5 +62,5 @@ We build multiple DataLoaders of increasing sequence lengths and use them in cur
 
 This post discusses how LSTM is embedded a GAN architecture to power the generation of realistic sequences of synthetic EHR time series.
 
-(Last Edit: 2025-09-30)
+(Last Edit: 2025-10-01)
 
