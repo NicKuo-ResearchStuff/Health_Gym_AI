@@ -12,7 +12,7 @@ Over the next few blogs, we will break down the core components of the Health Gy
 
 Long Short-Term Memory (LSTM) remains one of the most widely used tools for sequence modelling. Its defining feature is the use of gates to regulate information flow across time.
 
-An LSTM maintains both a hidden state (h_t) and a cell state (c_t). At each time step (t), the equations are:
+An LSTM maintains both a hidden state ($h_t$) and a cell state ($c_t$). At each time step ($t$), the equations are:
 
 $f_t = \sigma(W_f x_t + U_f h_{t-1}),$ \
 $i_t = \sigma(W_i x_t + U_i h_{t-1}),$ \
