@@ -81,7 +81,7 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
 * [ART for HIV using the Health Gym v2.5 Model (WGAN-GP + 3EOT + VAE + Buffer)](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs005_HandsOn(HealthGymV2.5)):</br>
   A high-level walkthrough of Health Gym v2.5, showing how adding a Transformer generator to the v2 meta-learning framework improves realism, stability, and diversity in synthetic ART for HIV data.
 
-For a detailed step-by-step breakdown of the implementation process, see the [Implementation Series](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs).
+For a detailed step-by-step breakdown of the implementation process, see the [Implementation Series](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs).<\br>
 Latest update: 2025-10-02.
   
 </td>
