@@ -68,5 +68,11 @@ This post discusses how LSTM is embedded a GAN architecture to power the generat
 
 This post dives into how the Health Gym v1 critic "rates realism" by scoring real data, fake data, and generator outputs during WGAN-GP training.
 
-(Last Edit: 2025-10-02)
+---
+
+### [Implementation 09: Health Gym v1: The Eye of the Critic, Part 2](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation09)
+
+This post unpacks the critic’s roles in -- scoring interpolated real–fake sequences and applying the gradient penalty via input-space derivatives -- to enforce 1-Lipschitzness and stabilise training.
+
+(Last Edit: 2025-10-03)
 
