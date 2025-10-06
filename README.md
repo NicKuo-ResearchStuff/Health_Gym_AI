@@ -82,7 +82,7 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
   A high-level walkthrough of Health Gym v2.5, showing how adding a Transformer generator to the v2 meta-learning framework improves realism, stability, and diversity in synthetic ART for HIV data.
 
 For a detailed step-by-step breakdown of the implementation process, see the [Implementation Series](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs).</br>
-Latest update: 2025-10-03.
+Latest update: 2025-10-06.
   
 </td>
 <td width="40%">
@@ -157,4 +157,4 @@ For any questions or interest in collaboration, please reach out to Nic at [n.ku
 
 [9]: [Kuo et al., "Enriching Data Science and Health Care Education: Application and Impact of Synthetic Data Sets through the Health Gym Project." JMIR Medical Education (2024).](https://mededu.jmir.org/2024/1/e51388/)
 
-(Last Edit: 2025-10-03)
+(Last Edit: 2025-10-06)
