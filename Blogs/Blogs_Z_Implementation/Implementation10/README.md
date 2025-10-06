@@ -129,6 +129,6 @@ In this first half of the story, the generator serves two purposes:
 In the next post, we’ll follow the generator into its third role — how it listens to the critic’s judgment and learns to improve itself through the adversarial loss ( − E[D(fake)] ).
 
 Cheers,</br>
-\– Nic
+\- Nic
 
 (Last Edit: 2025-10-06)
