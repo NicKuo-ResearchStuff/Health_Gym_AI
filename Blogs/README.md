@@ -74,5 +74,11 @@ This post dives into how the Health Gym v1 critic "rates realism" by scoring rea
 
 This post unpacks the critic’s roles in -- scoring interpolated real–fake sequences and applying the gradient penalty via input-space derivatives -- to enforce 1-Lipschitzness and stabilise training.
 
-(Last Edit: 2025-10-03)
+---
+
+### [Implementation 10: Health Gym v1: One Does Not Simply Create Synthetic Data, Part 1](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation10)
+
+A walkthrough of how the Health Gym WGAN-GP generator transforms noise into schema-aware synthetic patient sequences that the critic uses to learn realism.
+
+(Last Edit: 2025-10-06)
 
