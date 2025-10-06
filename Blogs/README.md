@@ -80,5 +80,11 @@ This post unpacks the critic’s roles in -- scoring interpolated real–fake se
 
 A walkthrough of how the Health Gym WGAN-GP generator transforms noise into schema-aware synthetic patient sequences that the critic uses to learn realism.
 
+---
+
+### [Implementation 11: Health Gym v1: One Does Not Simply Create Synthetic Data, Part 2](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation11)
+
+This post supplements blog 10 and discusses how the Health Gym generator learns from the critic’s feedback.
+
 (Last Edit: 2025-10-06)
 
