@@ -88,7 +88,7 @@ This post supplements blog 10 and discusses how the Health Gym generator learns 
 
 ---
 
-### [Implementation 11: Health Gym v1: The Learning Dynamics of GAN Sub-models](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation12)
+### [Implementation 12: Health Gym v1: The Learning Dynamics of GAN Sub-models](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation12)
 
 This post covers a visual exploration of how the Health Gym v1 WGAN-GP’s critic and generator gradually reach equilibrium—revealing smoother, more balanced learning dynamics across training epochs.
 
