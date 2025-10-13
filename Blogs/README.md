@@ -98,5 +98,11 @@ This post covers a visual exploration of how the Health Gym v1 WGAN-GP’s criti
 
 This post covers the workflow for comparing real and synthetic data distributions in Health Gym v1, showing how to eyeball model realism after 100 epochs of WGAN-GP training.
 
-(Last Edit: 2025-10-13)
+---
+
+### [Implementation 14: Health Gym v1: Health Gym v1: Train -> Save -> Load -> Train](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation14)
+
+This post provides a practical guide on how to pause, save, and resume WGAN-GP training.
+
+(Last Edit: 2025-10-14)
 
