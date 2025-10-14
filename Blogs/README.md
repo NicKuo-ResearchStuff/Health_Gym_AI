@@ -104,5 +104,11 @@ This post covers the workflow for comparing real and synthetic data distribution
 
 This post provides a practical guide on how to pause, save, and resume WGAN-GP training.
 
-(Last Edit: 2025-10-14)
+---
+
+### [Implementation 15: Health Gym v2: Tackling Mode Collapse with Memory](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation15)
+
+Health Gym v2 introduces a memory-augmented GAN that integrates a VAE and latent buffer to stabilise training, prevent mode collapse, and enhance the realism and diversity of synthetic clinical data.
+
+(Last Edit: 2025-10-15)
 
