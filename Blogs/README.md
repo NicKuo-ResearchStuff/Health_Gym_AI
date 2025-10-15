@@ -110,5 +110,11 @@ This post provides a practical guide on how to pause, save, and resume WGAN-GP t
 
 Health Gym v2 introduces a memory-augmented GAN that integrates a VAE and latent buffer to stabilise training, prevent mode collapse, and enhance the realism and diversity of synthetic clinical data.
 
-(Last Edit: 2025-10-15)
+---
+
+### [Implementation 16: Health Gym v2: How the Latent Buffer Remembers](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation16)
+
+This post discusses the latent buffer that did most of the heavy-lifting for the memory-guided generation in Health Gym v2.
+
+(Last Edit: 2025-10-16)
 
