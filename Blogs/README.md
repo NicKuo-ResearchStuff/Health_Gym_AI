@@ -116,5 +116,11 @@ Health Gym v2 introduces a memory-augmented GAN that integrates a VAE and latent
 
 This post discusses the latent buffer that did most of the heavy-lifting for the memory-guided generation in Health Gym v2.
 
-(Last Edit: 2025-10-16)
+---
+
+### [Implementation 17: Health Gym v2.5: Swapping the LSTM for a Transformer](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation17)
+
+Are transformers necessarily better than LSTMs? Let's discuss!
+
+(Last Edit: 2025-10-17)
 
