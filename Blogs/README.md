@@ -122,5 +122,11 @@ This post discusses the latent buffer that did most of the heavy-lifting for the
 
 Are transformers necessarily better than LSTMs? Let's discuss!
 
-(Last Edit: 2025-10-17)
+---
+
+### [Implementation 18: When Synthetic Data Collapses, People Disappear](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation18)
+
+A discussion on the mode collapse issue on when synthetic data loses diversity, and why that disappearance matters for real patients.
+
+(Last Edit: 2025-10-20)
 
