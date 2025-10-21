@@ -128,5 +128,11 @@ Are transformers necessarily better than LSTMs? Let's discuss!
 
 A discussion on the mode collapse issue on when synthetic data loses diversity, and why that disappearance matters for real patients.
 
-(Last Edit: 2025-10-20)
+---
+
+### [Implementation 19: Health Gym v3: From Chaos to Clarity](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation19)
+
+A brief introduction on the paradigm shift from GANs to diffusion models, where a step-by-step process that learns to add and remove noise can turn chaos into clarity in synthetic health data generation.
+
+(Last Edit: 2025-10-21)
 
