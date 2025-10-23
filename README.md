@@ -80,6 +80,8 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
   We introduce a meta-learner that guides the generator with a learned latent prior, enabling faster, more stable training and richer, more diverse synthetic ART for HIV data.
 * [ART for HIV using the Health Gym v2.5 Model (WGAN-GP + 3EOT + VAE + Buffer)](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs005_HandsOn(HealthGymV2.5)):</br>
   A high-level walkthrough of Health Gym v2.5, showing how adding a Transformer generator to the v2 meta-learning framework improves realism, stability, and diversity in synthetic ART for HIV data.
+* [ART for HIV using the Health Gym v3 Model (Diffusion)](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs006_HandsOn(HealthGymV3)):</br>
+  Health Gym v3 leverages the diffusion model paradigm to generate realistic synthetic ART for HIV data by reconstructing meaningful clinical patterns from noise.
 
 For a detailed step-by-step breakdown of the implementation process, see the [Implementation Series](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs).</br>
 Latest update: 2025-10-21.
@@ -157,4 +159,4 @@ For any questions or interest in collaboration, please reach out to Nic at [n.ku
 
 [9]: [Kuo et al., "Enriching Data Science and Health Care Education: Application and Impact of Synthetic Data Sets through the Health Gym Project." JMIR Medical Education (2024).](https://mededu.jmir.org/2024/1/e51388/)
 
-(Last Edit: 2025-10-21)
+(Last Edit: 2025-10-23)
