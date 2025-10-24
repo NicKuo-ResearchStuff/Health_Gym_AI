@@ -1,4 +1,4 @@
-# Health Gym v3 — The Diffusion Pipeline
+# Health Gym v3: The Diffusion Pipeline
 <img src="Supporting_Images/ZFig053_HGv3NewPipeline.png" width="600"/>  
 
 Hey, hello, and Kia Ora!
