@@ -140,6 +140,11 @@ A brief introduction on the paradigm shift from GANs to diffusion models, where 
 
 This post outlines some of the differences between the GAN-based pipeline and the Diffusion-based Pipeline.
 
+---
 
-(Last Edit: 2025-10-24)
+### [Implementation 21: Health Gym v3: From Embeddings to Diffusion-Ready Tensors](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation21)
+
+A detaileed walkthrough of how Health Gym v3 transforms mixed clinical data into clean, reversible, and noise-compatible tensors.
+
+(Last Edit: 2025-10-27)
 
