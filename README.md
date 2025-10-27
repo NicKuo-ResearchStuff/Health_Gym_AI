@@ -84,7 +84,7 @@ Health Gym [1] is a CBDRH initiative that releases privacy-preserving, realistic
   Health Gym v3 leverages the diffusion model paradigm to generate realistic synthetic ART for HIV data by reconstructing meaningful clinical patterns from noise.
 
 For a detailed step-by-step breakdown of the implementation process, see the [Implementation Series](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs).</br>
-Latest update: 2025-10-27.
+Latest update: 2025-10-28.
   
 </td>
 <td width="40%">
@@ -159,4 +159,4 @@ For any questions or interest in collaboration, please reach out to Nic at [n.ku
 
 [9]: [Kuo et al., "Enriching Data Science and Health Care Education: Application and Impact of Synthetic Data Sets through the Health Gym Project." JMIR Medical Education (2024).](https://mededu.jmir.org/2024/1/e51388/)
 
-(Last Edit: 2025-10-27)
+(Last Edit: 2025-10-28)
