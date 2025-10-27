@@ -146,5 +146,11 @@ This post outlines some of the differences between the GAN-based pipeline and th
 
 A detaileed walkthrough of how Health Gym v3 transforms mixed clinical data into clean, reversible, and noise-compatible tensors.
 
-(Last Edit: 2025-10-27)
+---
+
+### [Implementation 22: Health Gym v3: Forward Diffusion](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation22)
+
+A hands-on look at how Health Gym v3 manually defines forward diffusion to turn clean inputs into progressively noisy tensors via three key hyperparameters.
+
+(Last Edit: 2025-10-28)
 
