@@ -158,5 +158,11 @@ A hands-on look at how Health Gym v3 manually defines forward diffusion to turn 
 
 A quick look into how we reverse the diffusion process through step-by-step denoising.
 
-(Last Edit: 2025-10-29)
+---
+
+### [Implementation 24: Health Gym v3: Inside the U-Net](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation24)
+
+An overview of the gadgets to be found in our Health Gym v3’s customised 1-D, time-conditioned U-Net.
+
+(Last Edit: 2025-10-30)
 
