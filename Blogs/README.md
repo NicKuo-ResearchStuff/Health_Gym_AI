@@ -152,5 +152,11 @@ A detaileed walkthrough of how Health Gym v3 transforms mixed clinical data into
 
 A hands-on look at how Health Gym v3 manually defines forward diffusion to turn clean inputs into progressively noisy tensors via three key hyperparameters.
 
-(Last Edit: 2025-10-28)
+---
+
+### [Implementation 23: Health Gym v3: Reverse Reconstruction](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation23)
+
+A quick look into how we reverse the diffusion process through step-by-step denoising.
+
+(Last Edit: 2025-10-29)
 
