@@ -164,5 +164,11 @@ A quick look into how we reverse the diffusion process through step-by-step deno
 
 An overview of the gadgets to be found in our Health Gym v3’s customised 1-D, time-conditioned U-Net.
 
-(Last Edit: 2025-10-30)
+---
+
+### [Implementation 25: Health Gym v3: U-Net Sanity Checks](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation25)
+
+A visual and structural walkthrough discussing every temporal transformation in the U-Net.
+
+(Last Edit: 2025-10-31)
 
