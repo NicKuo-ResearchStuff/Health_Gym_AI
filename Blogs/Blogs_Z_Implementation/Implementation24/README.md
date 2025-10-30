@@ -118,7 +118,7 @@ Skip connections: preserve short-range detail essential for realism ($e.g.,$ sha
 
 ## What’s next
 
-In the next post, we’ll open the U-Net’s dials: practical guidance on choosing `HIDDEN` (capacity), `TARGET_LEN` (temporal field), and `T_STEPS` (time conditioning) for your cohort; plus simple ablations (remove FiLM, flatten levels) to see exactly which parts carry the denoising lift.
+In the next post, we’ll open the U-Net’s dials: practical guidance on choosing `HIDDEN` (capacity), `TARGET_LEN` (temporal field), and `T_STEPS` (time conditioning) for your cohort.
 
 Cheers,</br>
 \- Nic
