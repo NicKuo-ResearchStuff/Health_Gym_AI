@@ -170,5 +170,11 @@ An overview of the gadgets to be found in our Health Gym v3’s customised 1-D, 
 
 A visual and structural walkthrough discussing every temporal transformation in the U-Net.
 
-(Last Edit: 2025-10-31)
+---
+
+### [Implementation 26: Health Gym v3: Engineering Guardrails for Correct Reconstruction](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation26)
+
+Ensures diffusion-generated clinical sequences remain numerically valid and decodable by filtering, rescaling, and reconstructing only those samples that stay within feasible bounds throughout denoising.
+
+(Last Edit: 2025-11-03)
 
