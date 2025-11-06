@@ -176,5 +176,11 @@ A visual and structural walkthrough discussing every temporal transformation in 
 
 Ensures diffusion-generated clinical sequences remain numerically valid and decodable by filtering, rescaling, and reconstructing only those samples that stay within feasible bounds throughout denoising.
 
-(Last Edit: 2025-11-03)
+---
+
+### [Implementation 27: Advanced Eyeballing -- Understanding Fidelity with Dynamic Correlations](https://github.com/NicKuo-ResearchStuff/Health_Gym_AI/tree/main/Blogs/Blogs_Z_Implementation/Implementation27)
+
+Let's expose how synthetic data can look real but lie, and let's test the dynamic correlations of the data beyond static fidelity.
+
+(Last Edit: 2025-11-06)
 
