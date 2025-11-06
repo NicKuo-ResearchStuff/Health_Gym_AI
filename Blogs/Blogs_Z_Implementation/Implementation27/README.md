@@ -1,4 +1,4 @@
-# Validation: Advanced Eyeballing -- Understanding Fidelity with Dynamic Correlations
+# Advanced Eyeballing -- Understanding Fidelity with Dynamic Correlations
 
 <img src="Supporting_Images/ZFig060_DynamicCorrelations.png" width="600"/>
 
